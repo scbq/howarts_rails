@@ -27,3 +27,6 @@ Things you may want to cover:
 # howarts_rails
 desafio subiendo proyecto a render
 >>>>>>> 7f663b45b953c023a1aafa7742faa86492129191
+
+Enlace render:
+https://howarts-rails-rg1w.onrender.com
